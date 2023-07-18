@@ -3,25 +3,9 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  --verde-claro: #00ff00; /* cor principal relacionada à saúde. */
+  --verde-escuro: #00cc66; /* Um tom um pouco mais escuro proporcionando contraste e variação. */
+  --branco-esverdeado: #f4fff8; /* Um tom de verde muito claro ou branco esverdeado, transmitindo uma sensação de frescor e pureza. */
+  --laranja: #ffa500; /* Um tom de laranja, representando vitalidade e energia. */
+  --branco: #ffffff; /* Branco puro, sugerindo limpeza e higiene. */
 }
