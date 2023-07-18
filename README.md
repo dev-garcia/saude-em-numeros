@@ -1,6 +1,6 @@
 # Saúde em Números
 
-Uma plataforma em desenvolvimento, onde terá informações para usuários e para toda comunidade tech.
+Uma plataforma em desenvolvimento, onde terá informações de saúde para usuários e para toda comunidade tech.
 
 ## Stack utilizada
 
